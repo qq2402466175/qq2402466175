@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qq2402466175
+- 👋 Hi, I’m RenPengju
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
